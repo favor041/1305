@@ -9,6 +9,8 @@ int main()
 	
 	getchar();
 	return 0;
+	
 getchar();
 }
+
 
